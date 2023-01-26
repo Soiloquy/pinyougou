@@ -1,0 +1,137 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    height: 85px;
+    border-bottom: 2px solid #d82820;
+}
+
+header img {
+    margin-top: 20px;
+}
+
+.registerarea {
+    height: 520px;
+    margin-top: 15px;
+    border: 1px solid #ccc;
+}
+
+.registerarea h3 {
+    height: 42px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 42px;
+    padding-left: 10px;
+    background-color: #e9ece9;
+    border-bottom: 1px solid #ccc;
+}
+
+.registerarea h3 .login {
+    float: right;
+    font-size: 14px;
+    padding-right: 10px;
+}
+
+.registerarea h3 .login a {
+    color: #d82820;
+}
+
+.registerarea ul {
+    width: 550px;
+    margin: 50px auto 0;
+}
+
+.registerarea ul li {
+    margin-top: 20px;
+}
+
+.registerarea ul li label {
+    display: inline-block;
+    text-align: right;
+    padding-right: 5px;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+}
+
+.registerarea ul li input {
+    width: 200px;
+    height: 30px;
+    border: 1px solid #ccc;
+}
+
+.registerarea ul li .error {
+    font-size: 14px;
+
+}
+
+.registerarea ul li .error img {
+    width: 12px;
+    height: 12px;
+    margin-left: 2px;
+}
+
+.registerarea ul .sec {
+    font-size: 12px;
+    margin-left: 100px;
+    margin-top: 10px;
+    color: #b2b5b2;
+}
+
+.registerarea ul .sec span {
+    display: inline-block;
+    width: 35px;
+    height: 12px;
+    line-height: 12px;
+    margin-left: 1px;
+    text-align: center;
+    color: #fff;
+    border: 1px solid transparent;
+}
+
+.registerarea ul .xieyi {
+    margin-left: 100px;
+    font-size: 14px;
+    color: #575a57;
+}
+
+.registerarea ul .xieyi input {
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+}
+
+.registerarea ul .xieyi a {
+    color: #56a4d9;
+}
+
+.registerarea ul li:last-child button {
+    width: 150px;
+    height: 45px;
+    margin-left: 120px;
+    font-size: 18px;
+    color: #e9ece9;
+    background-color: #d82820;
+}
+
+.footer .copyright {
+    padding-top: 20px;
+    font-size: 12px;
+    color: #666;
+    text-align: center;
+}
+
+.footer .copyright .links a {
+    margin: 0 3px;
+}
+
+.footer .copyright .links a:hover {
+    color: #c81623;
+}
+
+.footer .copyright .information {
+    margin-top: 10px;
+    line-height: 18px;
+}
